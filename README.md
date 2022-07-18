@@ -9,7 +9,7 @@ de Thunders.
 Incialmente ele foi feito em java android mas depois migrei grande parte dele Kotlin. Usei nativo porque e a stack que mais domino.
 
 - API
-Hoje em dia a API dele esta parada entao ela nao vai apresentar os dados "mockados" que sao usuarios fakes para continuar contruindo a aplicacao
+Hoje em dia. A API dele esta parada entao ela nao vai apresentar os dados "mockados" que sao usuarios fakes para continuar construindo a aplicacao
 todavia ele ja tinha um chat com upload de imagem, amostragem de trabalhos, visualizacao de perfil e login tokenizado.
 
 - Node.js
